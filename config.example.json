@@ -1,0 +1,5 @@
+{
+    "discord_webhook_url":"YOUR_DISCORD_WEBHOOK_URL",
+    "normal_delay": 60,
+    "error_delay": 180
+}

@@ -1,0 +1,29 @@
+# Secrets / local configuration
+config.json
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Playwright / test artifacts
+test-results/
+playwright-report/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+browser_test.py
+stock_check.py
+stock_check_example.py
